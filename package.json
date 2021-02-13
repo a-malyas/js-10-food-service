@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/a-malyas/js-10-food-service/issues"
   },
-  "homepage": "",
+  "homepage": "https://a-malyas.github.io/js-10-food-service",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
